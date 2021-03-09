@@ -35,7 +35,7 @@ uint32_t TXPacketCount, startmS, endmS;
 uint8_t buff[] = "Device ID: ";
 
 uint8_t channel[81];
-char ids[] = "0123456789";
+char ids[] = "00:00:0";
 
 void loop()
 {
